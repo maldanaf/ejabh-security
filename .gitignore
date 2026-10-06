@@ -1,0 +1,4 @@
+*.zip
+*.sig
+*.key
+.DS_Store

@@ -1,0 +1,4 @@
+# Kept out of the release zip that sites install.
+/bin            export-ignore
+/.gitattributes export-ignore
+/.gitignore     export-ignore
